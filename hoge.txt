@@ -2,10 +2,7 @@ Hello World！
 
 mainブランチでhoge.txt に追記
 featureブランチでhoge.txtに追記
-<<<<<<< HEAD
 # hogera 
 ほげら
-=======
 # hogehoge
 ほげほげ
->>>>>>> feuture
